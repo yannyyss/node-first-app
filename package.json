@@ -1,0 +1,23 @@
+{
+  "name": "node-first-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yannyyss/node-first-app.git"
+  },
+  "author": "Yannyyss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yannyyss/node-first-app/issues"
+  },
+  "homepage": "https://github.com/yannyyss/node-first-app#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
